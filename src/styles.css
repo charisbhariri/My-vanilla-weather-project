@@ -75,11 +75,10 @@ a {
   padding: 0 10px;
 }
 .weather-forecast-icon{
-    width: 25px;
-    height: 25px;
-    display: block;
-    margin: 0 auto;
-    
+  width: 88px;
+  height: 88px;
+  display: block;
+  margin: 0 auto;
 }
 
 .strong{
